@@ -1,2 +1,2 @@
 Bonjour, je suis **sahbi_code** 👋  
-Mon premier projet GetHUB
+Mon premier projet GitHUB
